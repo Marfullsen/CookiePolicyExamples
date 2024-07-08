@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CookiePolicyExamples</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Cookie Policy</string>
+    <string name="second_fragment_label">More Examples soon!</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="cookie_policy">
+        <big><b>Cookie Policy</b></big>\n
+        Our app does not utilize cookies. However, in compliance with privacy regulations, we provide this Cookie Policy to inform users about our data handling practices.\n
+        \n<big><b>What are Cookies?</b></big>\n
+        Cookies are small text files that are stored on your device by websites that you visit. They are widely used to make websites work more efficiently, as well as to provide information to the owners of the site.\n
+        \n<big><b>Why Provide a Cookie Policy?</b></big>\m
+        Even though our app does not use cookies, we believe in transparency regarding user privacy. By providing this Cookie Policy, we aim to inform our users about our data practices.\n
+        \n<big><b>Managing Cookies</b></big>\n
+        Since our app does not use cookies, there is no action required on your part to manage or disable them.\n
+        \n<big><b>Questions</b></big>\n
+        If you have any questions or concerns regarding our Cookie Policy, please contact us at marfullsen@gmail.com
+    </string>
+
+    <string name="lorem_ipsum">
+        Pronto, Bientôt, Bald, Presto, Em breve, Скоро (Skoro), 很快 (Hěn kuài), 近いうちに (Chikai uchi ni), 곧 (Got), قريبًا (Qareeban), Binnenkort, Snart, Snart, Snart, Pian, Σύντομα (Sýntoma), Yakında, Wkrótce, Brzy, Hamarosan, În curând, Скоро (Skoro), Незабаром (Nezabaram), जल्दी (Jaldi), শীঘ্রই (Shighrai), เร็ว ๆ (Reo reo), Sớm, Segera, Segera, Hivi karibuni, Varsti, Netrukus, Drīz, Čoskoro, kmalu, Uskoro, Ускоро (Uskoro), Uskoro, Наскоро (Naskoro), Së shpejti, Baxx, Bráðum, Skjótt, Yn fuan, Go luath, An-dràsta, Laster, Axilmente, Aviat, Baldaŭ\n\n
+        ロレムイプサムドロルシットアメト、コンセクテトゥルアディピシングエリト、セドドエイウスモドテンポリンキディットウトラボレエトドロレマグナアリクア。ウトエニムアドミニムウェニアム、クイスノストルデクサーシオンウラムコラボリスニシウトアリクイップエクスエアコモードコンセクアット。デュイスオーテイイルレドロールインレプレヘンデリトインヴォルプターテヴェリテッセキルルムドロレエウフガイットヌッラパリアトゥル。エクセプテウルシントックアカットキュピダタットノンプロイデント、スントインクルパキーオフィキアデセルントモリタニムイデストラボラム。\n\n
+        لوريم إيبسوم دولور سيت آميت، كونسيكتيتور أديبيسسينغ إيليت، سيد دو إيود متبور إنكيديديونت أوت لابور آت دولور ماجنا ألكوا. أوت إنيم آد مينيم فينيام، كويس نوسترود إكسيرسيتاتيون أولامكو لابوريس نيسي أوت ألكوا إكس إءا كومودو كونسيكوات. دوئس أؤته إرور دولور إن ريبريهنديت إن فولبتات فيليت إسه سيللوم دولوره يو فوجات نولا بارياتور. إكسبتير سينت أكاكات كبداتات نون بروئدينت، سونت إن كولبا كوئ أففيسا داسيرانت مولليت آنيم إد است لابوروم.\n\n
+        Лорем ипсум долор сит амет, консектетур адиписцинг елит, сед до еиусмод темпор инцидидунт ут лаборе ет долоре магна алияуа. Ут еним ад миним вениам, куис ноструд екзерцитатион улламцо лаборис ниси ут аликвип ех еа коммодо консецуат. Дуис ауте ируре долор ин репрехендерит ин волуптате велит ессе циллум долоре еу фугиат нулла париатур. Екцептеур синт оццаечат цупидатат нон проидент, сунт ин цулпа кви оффициа десерунт моллит аним ид ест лаборум.\n\n
+
+    </string>
+</resources>
